@@ -51,7 +51,7 @@ function generateQuestionPaper(totalMarks, difficultyDistribution) {
 
 // example test case
 
-const totalMarks = 120;
+const totalMarks = 100;
 const difficultyDistribution = { Easy: 20, Medium: 50, Hard: 30 };
 
 const generatedPaper = generateQuestionPaper(totalMarks, difficultyDistribution);
