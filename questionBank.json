@@ -1,0 +1,37 @@
+{
+    "questions": [
+      {"question": "What is the speed of light?", "category": "Physics", "topic": "Waves", "difficulty": "Easy", "points": 5},
+      {"question": "Who developed the theory of relativity?", "category": "Physics", "topic": "Relativity", "difficulty": "Easy", "points": 5},
+      {"question": "What is the capital of France?", "category": "Geography", "topic": "Countries", "difficulty": "Easy", "points": 5},
+      {"question": "In which year did World War II end?", "category": "History", "topic": "World War II", "difficulty": "Easy", "points": 5},
+      {"question": "What is the chemical symbol for water?", "category": "Chemistry", "topic": "Elements", "difficulty": "Easy", "points": 5},
+      {"question": "Who wrote 'Romeo and Juliet'?", "category": "Literature", "topic": "Shakespeare", "difficulty": "Easy", "points": 5},
+      {"question": "What is the formula for the area of a rectangle?", "category": "Mathematics", "topic": "Geometry", "difficulty": "Easy", "points": 5},
+      {"question": "Which planet is known as the Red Planet?", "category": "Astronomy", "topic": "Planets", "difficulty": "Easy", "points": 5},
+      {"question": "What is the largest mammal on Earth?", "category": "Biology", "topic": "Animals", "difficulty": "Easy", "points": 5},
+      {"question": "Who painted the Mona Lisa?", "category": "Art", "topic": "Paintings", "difficulty": "Easy", "points": 5},
+      
+      {"question": "What is the square root of 144?", "category": "Mathematics", "topic": "Algebra", "difficulty": "Medium", "points": 10},
+      {"question": "In which year did the Titanic sink?", "category": "History", "topic": "Titanic", "difficulty": "Medium", "points": 10},
+      {"question": "What is the capital of Japan?", "category": "Geography", "topic": "Countries", "difficulty": "Medium", "points": 10},
+      {"question": "Who discovered penicillin?", "category": "Medicine", "topic": "Antibiotics", "difficulty": "Medium", "points": 10},
+      {"question": "What is the boiling point of water in Celsius?", "category": "Chemistry", "topic": "Temperature", "difficulty": "Medium", "points": 10},
+      {"question": "Which novel is known as the 'Great American Novel'?", "category": "Literature", "topic": "Novels", "difficulty": "Medium", "points": 10},
+      {"question": "What is the currency of Brazil?", "category": "Economics", "topic": "Currencies", "difficulty": "Medium", "points": 10},
+      {"question": "Who composed the 'Moonlight Sonata'?", "category": "Music", "topic": "Classical Music", "difficulty": "Medium", "points": 10},
+      {"question": "What is the speed of sound in air at sea level?", "category": "Physics", "topic": "Acoustics", "difficulty": "Medium", "points": 10},
+      {"question": "Who is the author of 'To Kill a Mockingbird'?", "category": "Literature", "topic": "Novels", "difficulty": "Medium", "points": 10},
+      
+      {"question": "What is the value of pi (π) to two decimal places?", "category": "Mathematics", "topic": "Geometry", "difficulty": "Hard", "points": 15},
+      {"question": "Who was the first President of the United States?", "category": "History", "topic": "Presidents", "difficulty": "Hard", "points": 15},
+      {"question": "What is the largest desert in the world?", "category": "Geography", "topic": "Deserts", "difficulty": "Hard", "points": 15},
+      {"question": "Who proposed the theory of natural selection?", "category": "Biology", "topic": "Evolution", "difficulty": "Hard", "points": 15},
+      {"question": "What is the speed of the fastest land animal?", "category": "Biology", "topic": "Animals", "difficulty": "Hard", "points": 15},
+      {"question": "Who painted the ceiling of the Sistine Chapel?", "category": "Art", "topic": "Paintings", "difficulty": "Hard", "points": 15},
+      {"question": "What is the molecular formula for glucose?", "category": "Chemistry", "topic": "Molecules", "difficulty": "Hard", "points": 15},
+      {"question": "In which year did the French Revolution begin?", "category": "History", "topic": "French Revolution", "difficulty": "Hard", "points": 15},
+      {"question": "What is the capital of Australia?", "category": "Geography", "topic": "Countries", "difficulty": "Hard", "points": 15},
+      {"question": "Who wrote 'One Hundred Years of Solitude'?", "category": "Literature", "topic": "Novels", "difficulty": "Hard", "points": 15}
+    ]
+  }
+  
